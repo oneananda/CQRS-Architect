@@ -1,4 +1,4 @@
-# CQRS-Architect
+# CQRS Architect
 CQRS Architect is a comprehensive library designed to simplify the implementation of Command Query Responsibility Segregation (CQRS) in .NET applications. This project provides tools and templates to streamline the setup process, allowing developers to focus on business logic rather than infrastructure concerns.
 
 ## Overview
@@ -27,7 +27,7 @@ CQRS (Command Query Responsibility Segregation) is a pattern that separates read
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/oneananda/CQRS-Architect.git
+   git clone https://github.com/oneananda/CQRSArchitect.git
    ```
 2. Running the Application
 
